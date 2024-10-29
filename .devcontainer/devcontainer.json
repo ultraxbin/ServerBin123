@@ -1,0 +1,5 @@
+// .devcontainer/devcontainer.json
+{
+  "name": "BotAutoRun",
+  "postStartCommand": "python3 bot.py"
+}
